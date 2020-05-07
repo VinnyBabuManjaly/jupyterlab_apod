@@ -7,7 +7,7 @@ import {
 } from '@jupyterlab/apputils';
 
 
-
+/**
  * Initialization data for the jupyterlab_apod extension.
  */
 const extension: JupyterFrontEndPlugin<void> = {
