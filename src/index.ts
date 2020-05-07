@@ -3,9 +3,12 @@ import {
 } from '@jupyterlab/application';
 
 import {
-  ICommandPalette
+  ICommandPalette, MainAreaWidget
 } from '@jupyterlab/apputils';
 
+import {
+  Widget
+} from '@lumino/widgets';
 
 /**
  * Initialization data for the jupyterlab_apod extension.
