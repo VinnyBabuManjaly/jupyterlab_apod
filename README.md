@@ -13,7 +13,7 @@
 ## Install
 
 ```bash
-jupyter labextension install jupyterlab-apod
+jupyter labextension install @vinnybabu/jupyterlab-apod
 ```
 
 ## Contributing
